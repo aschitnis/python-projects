@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+ <book>
+  <id>1</id>
+  <name>tulsi saheb ki shabdavali</name>
+  <author>tulsi sahib</author>
+  <information>part 1 and 2</information>
+ </book>
+  <book>
+  <id>2</id>
+  <name>paltu sahib ki baani</name>
+  <author>paltu sahib</author>
+  <information>part 1 and 2 and 3</information>
+ </book>
+  <book>
+  <id>3</id>
+  <name>guru nanak saheb ki praan sangali</name>
+  <author>guru nanak</author>
+  <information>part 1 and 2</information>
+ </book>
+  <book>
+  <id>4</id>
+  <name>gulal saheb ki baani</name>
+  <author>gulal saheb</author>
+  <information>2 copies</information>
+ </book>
+ <book>
+  <id>5</id>
+  <name>ratna sagar</name>
+  <author>tulsi saheb</author>
+  <information></information>
+ </book>
+ <book>
+  <id>6</id>
+  <name>garib das ki bani</name>
+  <author>garib das</author>
+  <information></information>
+ </book>
+ <book>
+  <id>7</id>
+  <name>sundar bilas</name>
+  <author>sundar das</author>
+  <information></information>
+ </book>
+ <book>
+  <id>8</id>
+  <name>kabir saheb ki shabdavali</name>
+  <author>kabir</author>
+  <information>part 1,2,3 and 4</information>
+ </book>
+ <book>
+  <id>9</id>
+  <name>kabir saheb ki gyan gudadi</name>
+  <author>kabir</author>
+  <information></information>
+ </book>
+ <book>
+  <id>10</id>
+  <name>kabir saheb bijak</name>
+  <author>kabir</author>
+  <information></information>
+ </book>
+ <book>
+  <id>11</id>
+  <name>akhravati</name>
+  <author>kabir</author>
+  <information></information>
+ </book>
+ <book>
+  <id>12</id>
+  <name>jagjivan sahab ki baniakhravati</name>
+  <author>jagjivan sahab</author>
+  <information>part 1 and 2</information>
+ </book>
+ <book>
+  <id>13</id>
+  <name>raidas ki bani</name>
+  <author>raidas</author>
+  <information></information>
+ </book>
+ <book>
+  <id>14</id>
+  <name>yari sahab ki ratnavali</name>
+  <author>yarisahab</author>
+  <information></information>
+ </book>
+ <book>
+  <id>15</id>
+  <name>dhani dharamdas ki bani</name>
+  <author>dharamdas</author>
+  <information></information>
+ </book>
+  <book>
+  <id>16</id>
+  <name>dharnidas ki bani</name>
+  <author>dharnidas</author>
+  <information></information>
+ </book>
+ <book>
+  <id>17</id>
+  <name>keshavdas ki amighut</name>
+  <author>keshavdas</author>
+  <information></information>
+ </book>
+ <book>
+  <id>18</id>
+  <name>malookdas ki bani</name>
+  <author>malookdas</author>
+  <information></information>
+ </book>
+  <book>
+  <id>19</id>
+  <name>charandas ki bani</name>
+  <author>charandas</author>
+  <information>part 1 and 2</information>
+ </book>
+ <book>
+  <id>20</id>
+  <name>bulah saheb ka shabdsaar</name>
+  <author>bullah saheb</author>
+  <information></information>
+ </book>
+ <book>
+  <id>21</id>
+  <name>bhikha saheb ki bani</name>
+  <author>bhikha saheb</author>
+  <information></information>
+ </book>
+ <book>
+  <id>22</id>
+  <name>dulandas ki bani</name>
+  <author>dulandas</author>
+  <information></information>
+ </book>
+ <book>
+  <id>23</id>
+  <name>ghat ramayan</name>
+  <author>tulsi saheb</author>
+  <information></information>
+ </book>
+ <book>
+  <id>24</id>
+  <name>Dadu Dayaal ki bani</name>
+  <author>Daadu Dayal</author>
+  <information>Part 1 and 2</information>
+ </book>
+</books>

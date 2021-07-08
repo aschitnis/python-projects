@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<orte>
+ <ort>
+  <id>1</id>
+  <name>Salzburg</name>
+  <country>Austria</country>
+ </ort>
+  <ort>
+  <id>2</id>
+  <name>Mumbai</name>
+  <country>India</country>
+ </ort>
+ <wartezeitproprozessdurchlauf>
+  <stunden></stunden>
+  <minuten>1</minuten>
+ </wartezeitproprozessdurchlauf>
+  <prozesslaufzeit>
+  <stunden></stunden>
+  <minuten>3</minuten>
+ </prozesslaufzeit>
+</orte>
