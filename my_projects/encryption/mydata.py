@@ -12,7 +12,9 @@ import os   # Datei lesen/schreiben
 # b) run "pip install cryptography" to install cryptography module . 
 from cryptography.fernet import Fernet
 
-# topic_userData_dictionary = {} 
+# topic_userData_dictionary = {} nj
+
+
 
 # **************************  Methods / functions (Encryption & Decryption)
 def write_key():
